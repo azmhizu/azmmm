@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<BODY bgcolor="silver">
+<h1>難波橋</h1>
+難波橋（なにわばし）は、大阪市の大川に架かる橋。浪速の名橋50選選定橋。大阪弁では「ナンニャバシ」[1] と発音する。
+大阪市中央区北浜～北区西天満の堺筋にかかる、全長189.7m、幅21.8mの橋である。中之島を挟んで土佐堀川と堂島川の2つの川を渡る。橋の中央で下流側に中之島通を分岐させ、上流側に中之島公園へ降りる階段が設けられている。
+<h2>目次</h2>
+<ul>
+	<li><A href="iti">位置</A></li>
+	<li><A href="rekishi">歴史・概念</A></li>
+	<li><A href="syuuhen">周辺情報</A></li>
+	<li><A href="tizu">地図</A></li>
+	<li><A href="sonota">その他の橋</A></li>
+</ul>
+<h3><A name="#iti">�ʒu</A></h3>
+<table border="5">
+	<caption>橋の基本情報</caption>
+	<tr>
+		<td>所在地</td>	<td>���s�k�搼�V��-������k�l�ԋ�����</td> 
+	</tr>
+	<tr>
+		<td>長さ</td><td>189.65m</td>
+	</tr>
+	<tr>
+		<td>幅</td><td>21.8m	</td>
+	</tr>
+	<tr>
+		<td>建築家技術者</td><td>意匠:宗兵蔵、彫刻:天岡均一</td>
+	</tr>
+	<tr>
+		<td>形式</td><td>2ヒンジアーチおよび合成桁RCアーチほか</td>	
+	</tr>
+	<tr>
+		<td>建設</td><td>1915年</td>
+	</tr>
+</table>
+<A name="#rekishi"><h3>歴史・概要</h3></A>
+難波橋辺りの最初の橋は、元をたどると704年ごろに行基によって架けられたといわれている。天神橋、天満橋と共に浪華三大橋と称され、最も西（下流）に位置する。「浪華橋」とも表記され[2]、明治末期まで堺筋の一筋西の難波橋筋に架かっており、橋の長さが108間（約207m）もの大型の反り橋だったという。1661年（寛文元年）天神橋とともに幕府が管理する公儀橋とされた。
+1766年（明和3年）、山崎ノ鼻と呼ばれる中之島東端の新地が難波橋の近くまで埋立造成され、難波橋からの眺めは絶景と言われた。1876年（明治9年）に鉄橋に架け替えられたが、このときに中之島が上流へ拡張されたため、以降の難波橋は中之島を跨ぐかたちとなっている。なお、1891年（明治24年）に山崎ノ鼻を含む東端は中之島公園となった。
+1912年（明治45年）に大阪市電が天神橋筋六丁目まで延伸される際、市電敷設の反対運動が起こったため、1915年（大正4年）に一筋東の堺筋に新橋が架けられた。パリのセーヌ川に架かるヌフ橋とアレクサンドル3世橋を参考にして製作されたと言われるこの新橋が現在の難波橋である。
+当初は難波橋筋に架かる旧橋と区別するため、堺筋に架かる新橋は大川橋とも呼ばれた。新橋は当初中之島を跨いでいなかったが、1921年（大正10年）以降、大川の浚渫で出た土砂埋め立てによりさらに上流へ拡張された中之島公園を跨ぐようになった。中之島通敷設の際に旧橋は撤去され、新橋は名実共に難波橋となった。
+老朽化が目立ち始めた1975年（昭和50年）に大阪市によって大改修が施され、現在に至る。
+
+
+<h3><A name="#syuuhen">���ӏ��</A></h3>
+	<UL>
+ <LI><A HREF="https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%B9%8B%E5%B3%B6_(%E5%A4%A7%E9%98%AA%E5%BA%9C)">���m��</A></LI>
+   <ul>
+   <li><A HREF="http://www.city.osaka.lg.jp/contents/wdu010/movie/ch4/nakanoshima/">���m������</A></li>
+   <li><A HREF="http://www.keihan.co.jp/traffic/station/stationinfo/283.html">���㒆�V���w�@�Ȃɂ틴�w</A></li>
+   </ul>
+<LI><A HREF="https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%9C">�k�l</A></LI>
+   <ul>
+   <li><A HREF="https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%9C%E9%A7%85_(%E5%A4%A7%E9%98%AA%E5%BA%9C)">����{���E�n���S��ؐ� �k�l�w</A></li>
+   <li><A HREF="https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%8F%96%E5%BC%95%E6%89%80">�������</A></li>
+   <li><A HREF="http://map.japanpost.jp/p/search/dtl/300141004000/">�k�l�X�֋�</A></li>
+   </ul>
+</UL>
+
+<h3><A name="#tizu">�n�}</A></h3>
+<IMG src="BridgeOfNakanoshima[1].png">
+�����̔������������V���B
+<h3><A name="#sonota">���̑��̋�</A></h3>
+<table>
+<caption>�Q���̖���50�I</caption>
+<tr><td>
+<A HREF="https://ja.wikipedia.org/wiki/%E7%9B%B8%E5%90%88%E6%A9%8B">������</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E7%8C%AA%E9%A3%BC%E9%87%8E%E6%96%B0%E6%A9%8B">������V��</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E4%BB%8A%E6%A9%8B_(%E5%A4%A7%E9%98%AA%E5%B8%82)">����</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B1%9F%E6%A9%8B">��]��</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9D%82%E6%A9%8B">��⋴</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B5%AA%E6%A9%8B">��Q��</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E3%81%8B%E3%82%82%E3%82%81%E5%A4%A7%E6%A9%8B">�����ߑ勴</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E6%A9%8B_(%E5%A4%A7%E9%98%AA%E5%B8%82)">��苴</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%B4%8E%E6%A9%8B">�_�苴</A>
+</tr></td>
+<tr><td>
+<A HREF="https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%B4%A5%E5%B7%9D%E6%A9%8B_(%E5%9B%BD%E9%81%93172%E5%8F%B7)">�ؒÐ싴</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%A9%8B_(%E5%A4%A7%E9%98%AA%E5%B8%82)">����</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E6%BA%90%E5%85%AB%E6%A9%8B">������</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E9%AB%98%E9%BA%97%E6%A9%8B">���틴</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E6%AD%A4%E8%8A%B1%E5%A4%A7%E6%A9%8B">���ԑ勴</A>
+<A HREF="https://ja.wikipedia.org/w/index.php?title=%E4%B8%8B%E5%A4%A7%E5%92%8C%E6%A9%8B&action=edit&redlink=1">����a��</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E5%8D%81%E4%B8%89%E5%A4%A7%E6%A9%8B">�\�O�勴</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E5%B8%B8%E5%AE%89%E6%A9%8B">�����</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C%E6%A9%8B_(%E6%9C%A8%E6%B4%A5%E5%B7%9D)">���a��</A>
+</tr></td>
+<tr><td>
+<A HREF="https://ja.wikipedia.org/wiki/%E5%BF%83%E6%96%8E%E6%A9%8B">�S�֋�</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E6%96%B0%E9%B4%AB%E9%87%8E%E6%A9%8B">�V���싴</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E6%96%B0%E6%B7%80%E5%B7%9D%E5%A4%A7%E6%A9%8B">�V����勴</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%99%B6%E6%A9%8B">������</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E8%8F%85%E5%8E%9F%E5%9F%8E%E5%8C%97%E5%A4%A7%E6%A9%8B">������k�勴</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E4%BD%8F%E5%90%89%E5%8F%8D%E6%A9%8B">�Z�g����</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E9%9B%AA%E9%AF%A8%E6%A9%8B">��~��</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E6%A0%B4%E6%AA%80%E6%9C%A8%E6%A9%8B">��h�؋�</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E5%8D%83%E6%9C%AC%E6%9D%BE%E5%A4%A7%E6%A9%8B">��{���勴</A>
+</tr></td>
+<tr><td>
+<A HREF="https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%BB%92%E6%A9%8B">�单��</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A3%E6%A9%8B_(%E5%A4%A7%E9%98%AA%E5%B8%82)">�吳��</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E7%8E%89%E6%B1%9F%E6%A9%8B_(%E5%A4%A7%E9%98%AA%E5%BA%9C)">�ʍ]��</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E7%9B%B8%E5%90%88%E6%A9%8B">�ʒË�</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E6%A9%8B_(%E5%A4%A7%E9%98%AA%E5%B8%82)">�V�_��</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%BA%80%E6%A9%8B">�V����</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E8%B1%8A%E9%87%8C%E5%A4%A7%E6%A9%8B">�L���勴</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E9%9B%A3%E6%B3%A2%E6%A9%8B">��g��</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E9%8C%A6%E6%A9%8B_(%E5%9C%9F%E4%BD%90%E5%A0%80%E5%B7%9D)">�ы�</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%A9%8B_(%E5%A4%A7%E9%98%AA%E5%B8%82)">���{��</A>
+</tr></td>
+<tr><td>
+<A HREF="https://ja.wikipedia.org/wiki/%E8%82%A5%E5%BE%8C%E6%A9%8B">��㋴</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E5%B9%B3%E9%87%8E%E6%A9%8B_(%E5%A4%A7%E9%98%AA%E5%B8%82)">���싴</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E9%89%BE%E6%B5%81%E6%A9%8B">�g����</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%BA%E6%A9%8B">�{����</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E6%B8%AF%E5%A4%A7%E6%A9%8B">�`�勴</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%92%8C%E6%A9%8B">��a��</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E8%91%AD%E5%B1%8B%E6%A9%8B">�щ���</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E6%B7%80%E5%B7%9D%E5%A4%A7%E6%A9%8B">����勴</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E6%B7%80%E5%B1%8B%E6%A9%8B">������</A>
+<A HREF="https://ja.wikipedia.org/wiki/%E6%B8%A1%E8%BE%BA%E6%A9%8B">�n�Ӌ�</A>
+</tr></td>
+</table>
+</body>
+</html>
+
